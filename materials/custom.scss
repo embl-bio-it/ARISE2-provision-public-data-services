@@ -1,0 +1,84 @@
+/*-- scss:defaults --*/
+
+$body-bg: #f7f2f7;
+$body-color: #333333;
+$link-color: #880088;
+
+/*-- scss:rules --*/
+
+.reveal .slide blockquote {
+  border-left: 3px solid $text-muted;
+  padding-left: 0.5em;
+}
+
+h1 {
+    text-align: center;
+  }
+
+
+h2 {
+    color: #880088!important;
+}
+
+#logo {
+    text-align: center;
+}
+
+#logo img {
+    display: inline-block;
+    max-width: 100%; /* Optional: scales for smaller viewports */
+    height: auto;
+}
+
+.align-right {
+  text-align: right;
+}
+
+.small-table {
+    font-size: 0.9em;
+}
+
+.xsmall-table {
+    font-size: 0.75em;
+}
+
+.xsmall-table td:nth-child(1),
+.xsmall-table th:nth-child(1) {
+  background-color: #A189C9;
+}
+
+.xsmall-table td:nth-child(2),
+.xsmall-table th:nth-child(2) {
+  background-color: #8e89c9;
+}
+
+.xsmall-table td:nth-child(3),
+.xsmall-table th:nth-child(3) {
+  background-color: #A5CFE1;
+}
+
+.xsmall-table td:nth-child(4),
+.xsmall-table th:nth-child(4) {
+  background-color: #91B585;
+}
+
+.xsmall-table td:nth-child(5),
+.xsmall-table th:nth-child(5) {
+  background-color: #E0DF72;
+}
+
+.xsmall-table td:nth-child(6),
+.xsmall-table th:nth-child(6) {
+  background-color: #E09F72;
+}
+
+#xsmall-table thead tr th {
+  border-bottom: 4px solid #000 !important;
+}
+
+.textbox {
+  background: lightgrey; 
+  padding: 10px;
+  border-radius: 12px; 
+  border: 1px solid #ddd;
+}
