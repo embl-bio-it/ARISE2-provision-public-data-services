@@ -16,7 +16,7 @@ date: today
 
 ## Description of the module
 
-Short description.
+Short description of the module. 
 
 
 ## Prerequisites
