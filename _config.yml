@@ -1,0 +1,6 @@
+title: ARISE2: Provision of Public Data Services
+description: Module in the ARISE2 program
+repository: embl-bio-it/ARISE2-provision-public-data-services
+theme: jekyll-theme-cayman
+github:
+  is_project_page: false
