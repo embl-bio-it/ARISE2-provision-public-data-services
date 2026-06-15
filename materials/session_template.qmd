@@ -1,0 +1,154 @@
+---
+title: "Placeholder Presentation Template"
+subtitle: "Sanitized visual reference"
+author: ""
+date: today
+format:
+  revealjs:
+    theme: [default, custom.scss]
+    slide-number: c/t
+    progress: true
+    transition: fade
+    width: 1280
+    height: 800
+    include-in-header:
+      text: |
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@7.4.47/css/materialdesignicons.min.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+execute:
+  echo: true
+  eval: false
+---
+
+# {.section-divider background-color="#208F6E"}
+
+<i class="mdi mdi-presentation"></i>
+
+# Placeholder Section
+
+## Triad / Three-column cards
+
+::: {.columns}
+::: {.column width="33%"}
+::: {.triad-card .triad-r}
+<i class="mdi mdi-lightbulb-outline triad-icon"></i>
+### Placeholder A
+Lorem ipsum dolor sit amet.
+:::
+:::
+::: {.column width="33%"}
+::: {.triad-card .triad-a}
+<i class="mdi mdi-cog-outline triad-icon"></i>
+### Placeholder B
+Consectetur adipiscing elit.
+:::
+:::
+::: {.column width="33%"}
+::: {.triad-card .triad-t}
+<i class="mdi mdi-chart-box-outline triad-icon"></i>
+### Placeholder C
+Sed do eiusmod tempor.
+:::
+:::
+:::
+
+## Two-column comparison
+
+::: {.columns}
+::: {.column width="50%"}
+### Option A
+- <i class="mdi mdi-check-circle"></i> Placeholder
+- <i class="mdi mdi-check-circle"></i> Placeholder
+- <i class="mdi mdi-check-circle"></i> Placeholder
+:::
+::: {.column width="50%"}
+### Option B
+- <i class="mdi mdi-alert-circle"></i> Placeholder
+- <i class="mdi mdi-alert-circle"></i> Placeholder
+- <i class="mdi mdi-alert-circle"></i> Placeholder
+:::
+:::
+
+## Issues vs recommendations
+
+::: {.columns}
+::: {.column width="50%"}
+<div class="callout callout-warning">
+<h3>Issues</h3>
+<ul><li>Lorem ipsum</li><li>Lorem ipsum</li><li>Lorem ipsum</li></ul>
+</div>
+:::
+::: {.column width="50%"}
+<div class="callout callout-tip">
+<h3>Recommendations</h3>
+<ul><li>Placeholder</li><li>Placeholder</li><li>Placeholder</li></ul>
+</div>
+:::
+:::
+
+## What we tune …
+
+| Area | Placeholder setting | Effect |
+|------|------|------|
+| Compute | Lorem ipsum | Placeholder |
+| Storage | Lorem ipsum | Placeholder |
+| Scheduling | Lorem ipsum | Placeholder |
+| Monitoring | Lorem ipsum | Placeholder |
+
+## Colored callouts
+
+> **Blue** — Placeholder information.
+
+> **Green** — Placeholder recommendation.
+
+> **Orange** — Placeholder caution.
+
+> **Purple** — Placeholder note.
+
+> **Red** — Placeholder risk.
+
+## Icon-rich list
+
+- <i class="mdi mdi-database"></i> Data placeholder
+- <i class="mdi mdi-server"></i> Infrastructure placeholder
+- <i class="mdi mdi-language-python"></i> Python placeholder
+- <i class="mdi mdi-console"></i> Bash placeholder
+- <i class="mdi mdi-chart-line"></i> Reporting placeholder
+
+**More icons:** Browse Material Design Icons at https://pictogrammers.com/library/mdi/ and use the corresponding `mdi mdi-...` class names.
+
+## Bash example
+
+```bash
+for sample in A B C; do
+  echo "Processing ${sample}"
+done
+```
+
+## Python example
+
+```python
+from pathlib import Path
+
+samples = ["A", "B", "C"]
+for sample in samples:
+    print(f"Processing {sample}")
+```
+
+# {.section-divider background-color="#E67E22"}
+
+<i class="mdi mdi-palette-outline"></i>
+
+# Orange Style Example
+
+## Placeholder content
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+# More and richer visuals
+
+On [Thomas Weber's EPUG presentation about Snakemake](https://git.embl.org/grp-bio-it/EPUG/-/blob/master/meetings/2026/session_05_Snakemake/python-club-snakemake-2026.pdf)
+
+[and in `.qmd`](https://git.embl.org/grp-bio-it/EPUG/-/blob/master/meetings/2026/session_05_Snakemake/python-club-snakemake-2026.qmd)
