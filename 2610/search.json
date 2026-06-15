@@ -1,0 +1,392 @@
+[
+  {
+    "objectID": "authors.html",
+    "href": "authors.html",
+    "title": "Authors",
+    "section": "",
+    "text": "These pages are under active development and not yet ready for use as educational material.\n\nJohn Doe   \n\nTraining Officer, EMBL\n\n\n\n\n\n\nShort bio of John Doe\n\n\n\n\n\n\n\nNina Norgren   \n\nTraining Manager, SciLifeLab, Sweden\n\n\n\n\n\n\nNina is a Training Manager at SciLifeLab. She has a background in biology and bioinformatics, but is now mostly working with Training. She is managing several of the services offered by SciLifeLab training, including the SciLifeLab Training portal.\n\n\n\n\n\n\n\nJohn Doe   \n\nTraining Officer, EMBL\n\n\n\n\n\n\nShort bio of John Doe\n\n\n\n\n\n\n\n\n\n\n    Contact: ??\n    Licensed under CC-BY-SA",
+    "crumbs": [
+      "Authors"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Information",
+    "section": "",
+    "text": "These pages are under active development and not yet ready for use as educational material.",
+    "crumbs": [
+      "Information"
+    ]
+  },
+  {
+    "objectID": "index.html#description-of-the-module",
+    "href": "index.html#description-of-the-module",
+    "title": "Information",
+    "section": "Description of the module",
+    "text": "Description of the module\nShort description of the module.",
+    "crumbs": [
+      "Information"
+    ]
+  },
+  {
+    "objectID": "index.html#prerequisites",
+    "href": "index.html#prerequisites",
+    "title": "Information",
+    "section": "Prerequisites",
+    "text": "Prerequisites\n?",
+    "crumbs": [
+      "Information"
+    ]
+  },
+  {
+    "objectID": "index.html#learning-outcomes",
+    "href": "index.html#learning-outcomes",
+    "title": "Information",
+    "section": "Learning outcomes",
+    "text": "Learning outcomes\nAfter this module the participants will be able to:\n\nLO 1\nLO 2",
+    "crumbs": [
+      "Information"
+    ]
+  },
+  {
+    "objectID": "index.html#arise-competencies-addressed-with-this-course",
+    "href": "index.html#arise-competencies-addressed-with-this-course",
+    "title": "Information",
+    "section": "ARISE competencies addressed with this course",
+    "text": "ARISE competencies addressed with this course",
+    "crumbs": [
+      "Information"
+    ]
+  },
+  {
+    "objectID": "index.html#schedule",
+    "href": "index.html#schedule",
+    "title": "Information",
+    "section": "Schedule",
+    "text": "Schedule\n\n\n\nTime (CEST)\nTopic\n\n\n\n\n14.00-14.20\nSession 1\n\n\n14.20-14.40\nSession 2\n\n\n14.40-15.00\nSession 3\n\n\n15.00-15.30\nExercise\n\n\n15.30-16.00\nQ&A",
+    "crumbs": [
+      "Information"
+    ]
+  },
+  {
+    "objectID": "materials/EMBL_opening_slide/index.html#getting-up",
+    "href": "materials/EMBL_opening_slide/index.html#getting-up",
+    "title": "EMBL Template Presentation",
+    "section": "Getting up",
+    "text": "Getting up\n\nTurn off alarm\nGet out of bed"
+  },
+  {
+    "objectID": "materials/EMBL_opening_slide/index.html#going-to-sleep",
+    "href": "materials/EMBL_opening_slide/index.html#going-to-sleep",
+    "title": "EMBL Template Presentation",
+    "section": "Going to sleep",
+    "text": "Going to sleep\n\nGet in bed\nCount sheep"
+  },
+  {
+    "objectID": "materials/index.html#getting-up",
+    "href": "materials/index.html#getting-up",
+    "title": "EMBL Template Presentation",
+    "section": "Getting up",
+    "text": "Getting up\n\nTurn off alarm\nGet out of bed"
+  },
+  {
+    "objectID": "materials/index.html#going-to-sleep",
+    "href": "materials/index.html#going-to-sleep",
+    "title": "EMBL Template Presentation",
+    "section": "Going to sleep",
+    "text": "Going to sleep\n\nGet in bed\nCount sheep"
+  },
+  {
+    "objectID": "materials/session2_wip.html#learning-outcomes",
+    "href": "materials/session2_wip.html#learning-outcomes",
+    "title": "Feedback and Scalability",
+    "section": "Learning outcomes",
+    "text": "Learning outcomes\n\nDescribe strategies for engaging with users and communities\nIdentify approaches for evaluating and improving a public data service"
+  },
+  {
+    "objectID": "materials/session2_wip.html#why-user-feedback-matters",
+    "href": "materials/session2_wip.html#why-user-feedback-matters",
+    "title": "Feedback and Scalability",
+    "section": "Why User Feedback Matters",
+    "text": "Why User Feedback Matters\n\n\nA service is only successful if users can use it\n\n\nPublic data services often focus heavily on:\n\nData quality\nInfrastructure\nTechnology"
+  },
+  {
+    "objectID": "materials/session2_wip.html#why-user-feedback-matters-1",
+    "href": "materials/session2_wip.html#why-user-feedback-matters-1",
+    "title": "Feedback and Scalability",
+    "section": "Why User Feedback Matters",
+    "text": "Why User Feedback Matters\n\n\nA service is only successful if users can use it\n\n\nBut users experience:\n\nInterfaces\nDocumentation\nSupport channels\nResponse times\n\n\nUser feedback is one of the most important inputs for improving a service."
+  },
+  {
+    "objectID": "materials/session2_wip.html#a-continuous-improvement-cycle",
+    "href": "materials/session2_wip.html#a-continuous-improvement-cycle",
+    "title": "Feedback and Scalability",
+    "section": "A continuous improvement cycle",
+    "text": "A continuous improvement cycle"
+  },
+  {
+    "objectID": "materials/session2_wip.html#a-continuous-improvement-cycle-1",
+    "href": "materials/session2_wip.html#a-continuous-improvement-cycle-1",
+    "title": "Feedback and Scalability",
+    "section": "A continuous improvement cycle",
+    "text": "A continuous improvement cycle\n\nFeedback can come from:\n\nDirect user support requests\nBug reports\nUser surveys\nCommunity discussions\nUsage analytics\nTraining events and workshops\n\n\n\nMove from guessing what users need to learning from actual users."
+  },
+  {
+    "objectID": "materials/session2_wip.html#implementing-new-features",
+    "href": "materials/session2_wip.html#implementing-new-features",
+    "title": "Feedback and Scalability",
+    "section": "Implementing new Features",
+    "text": "Implementing new Features\n\nQuestions to ask before releasing a new feature\n\n\nDoes anyone actually need this?\nIs the problem clearly defined?\nCan we test the idea before fully implementing it?"
+  },
+  {
+    "objectID": "materials/session2_wip.html#common-approaches",
+    "href": "materials/session2_wip.html#common-approaches",
+    "title": "Feedback and Scalability",
+    "section": "Common approaches",
+    "text": "Common approaches\n\nPrototype\n\nEarly mock-up\nDemonstrates concepts\nLow development effort"
+  },
+  {
+    "objectID": "materials/session2_wip.html#common-approaches-1",
+    "href": "materials/session2_wip.html#common-approaches-1",
+    "title": "Feedback and Scalability",
+    "section": "Common approaches",
+    "text": "Common approaches\n\nPrototype\nProof-of-Concept (PoC)\n\nTests technical feasibility\nAnswers “Can this work?”"
+  },
+  {
+    "objectID": "materials/session2_wip.html#common-approaches-2",
+    "href": "materials/session2_wip.html#common-approaches-2",
+    "title": "Feedback and Scalability",
+    "section": "Common approaches",
+    "text": "Common approaches\n\nPrototype\nProof-of-Concept (PoC)\nPilot users\n\nSmall group of real users\nEarly feedback before wider release"
+  },
+  {
+    "objectID": "materials/session2_wip.html#user-testing-and-ab-testing",
+    "href": "materials/session2_wip.html#user-testing-and-ab-testing",
+    "title": "Feedback and Scalability",
+    "section": "User Testing and A/B Testing",
+    "text": "User Testing and A/B Testing\n\nUser testing\n\nObserve users performing tasks\nIdentify pain points\nEvaluate usability\n\n\nExamples:\n\nFinding a dataset\nUploading data\nRunning an analysis workflow"
+  },
+  {
+    "objectID": "materials/session2_wip.html#user-testing-and-ab-testing-1",
+    "href": "materials/session2_wip.html#user-testing-and-ab-testing-1",
+    "title": "Feedback and Scalability",
+    "section": "User Testing and A/B Testing",
+    "text": "User Testing and A/B Testing\n\nA/B Testing\n\nVersion A:\nCurrent design\nVersion B:\nNew design\n\nMeasure:\n\nCompletion rate\nTime to task completion\nUser satisfaction"
+  },
+  {
+    "objectID": "materials/session2_wip.html#handling-bug-reports",
+    "href": "materials/session2_wip.html#handling-bug-reports",
+    "title": "Feedback and Scalability",
+    "section": "Handling Bug Reports",
+    "text": "Handling Bug Reports\n\nMake it easy to report bugs\n\n\nBad: “Send an email to support.”\n\n\n\nBetter: Structured bug reporting form"
+  },
+  {
+    "objectID": "materials/session2_wip.html#handling-bug-reports-1",
+    "href": "materials/session2_wip.html#handling-bug-reports-1",
+    "title": "Feedback and Scalability",
+    "section": "Handling Bug Reports",
+    "text": "Handling Bug Reports\n\n\nBetter: Structured bug reporting form\n\n\nUseful information:\n\nWhat happened?\nWhat was expected?\nSteps to reproduce\nBrowser/software version\nScreenshots\nContact details"
+  },
+  {
+    "objectID": "materials/session2_wip.html#handling-bug-reports-2",
+    "href": "materials/session2_wip.html#handling-bug-reports-2",
+    "title": "Feedback and Scalability",
+    "section": "Handling Bug Reports",
+    "text": "Handling Bug Reports\n\n\nBetter: Structured bug reporting form\n\n\nBenefits:\n\nEasier to recreate the issue\nFaster troubleshooting\nBetter prioritisation\nEasier communication"
+  },
+  {
+    "objectID": "materials/session2_wip.html#user-interactions-channels",
+    "href": "materials/session2_wip.html#user-interactions-channels",
+    "title": "Feedback and Scalability",
+    "section": "User interactions channels",
+    "text": "User interactions channels\n\nDifferent users prefer different channels\n\n\n\n\nChannel\nStrengths\nWeaknesses\n\n\n\n\nEmail\nFamiliar and universal\nHard to search\n\n\nOnline forms\nStructured information\nLess conversational\n\n\nGithub issues\nTrack issues\nTechnical barrier\n\n\nCommunity forums\nShared knowledge\nRequire moderation"
+  },
+  {
+    "objectID": "materials/session2_wip.html#which-one-to-choose",
+    "href": "materials/session2_wip.html#which-one-to-choose",
+    "title": "Feedback and Scalability",
+    "section": "Which one to choose?",
+    "text": "Which one to choose?\n\nDepends on the user interaction:\nTechnical users -&gt; GitHub Issues\nGeneral users -&gt; support email or form\n\nDirect user support is normally through email or online form, but it can be useful to have a public forum for community discussions and shared knowledge.\n\n\n\nAccept feedback through multiple channels, but manage issues through a single tracking system"
+  },
+  {
+    "objectID": "materials/session2_wip.html#service-scale-and-scalability",
+    "href": "materials/session2_wip.html#service-scale-and-scalability",
+    "title": "Feedback and Scalability",
+    "section": "Service Scale and Scalability",
+    "text": "Service Scale and Scalability\n\nWhat happens if your service becomes successful?\n\nCan the infrastructure handle more users?\nCan it handle larger datasets?\nCan it handle more simultaneous requests?\nCan support staff keep up with demand?"
+  },
+  {
+    "objectID": "materials/session2_wip.html#types-of-scalability",
+    "href": "materials/session2_wip.html#types-of-scalability",
+    "title": "Feedback and Scalability",
+    "section": "Types of scalability",
+    "text": "Types of scalability\n\nTechnical\n\nCPU, memory, storage\nNetwork bandwidth\nDatabase performance"
+  },
+  {
+    "objectID": "materials/session2_wip.html#types-of-scalability-1",
+    "href": "materials/session2_wip.html#types-of-scalability-1",
+    "title": "Feedback and Scalability",
+    "section": "Types of scalability",
+    "text": "Types of scalability\n\nTechnical\nOperational\n\nDocumentation\nUser support\nOnboarding processes\nScalability testing"
+  },
+  {
+    "objectID": "materials/session2_wip.html#types-of-scalability-2",
+    "href": "materials/session2_wip.html#types-of-scalability-2",
+    "title": "Feedback and Scalability",
+    "section": "Types of scalability",
+    "text": "Types of scalability\n\nTechnical\nOperational\n\nExamples:\n\nLoad testing\nStress testing\nPerformance benchmarking"
+  },
+  {
+    "objectID": "materials/session2_wip.html#monitoring-your-service",
+    "href": "materials/session2_wip.html#monitoring-your-service",
+    "title": "Feedback and Scalability",
+    "section": "Monitoring Your Service",
+    "text": "Monitoring Your Service\n\nWhat should be monitored?\n\nTechnical metrics\n\nUptime\nResponse times\nError rates\nStorage usage"
+  },
+  {
+    "objectID": "materials/session2_wip.html#monitoring-your-service-1",
+    "href": "materials/session2_wip.html#monitoring-your-service-1",
+    "title": "Feedback and Scalability",
+    "section": "Monitoring Your Service",
+    "text": "Monitoring Your Service\n\nWhat should be monitored?\n\nTechnical metrics\nUsage metrics\n\nNumber of users\nNumber of sessions\nMost used features\nGeographic distribution"
+  },
+  {
+    "objectID": "materials/session2_wip.html#example-matomo",
+    "href": "materials/session2_wip.html#example-matomo",
+    "title": "Feedback and Scalability",
+    "section": "Example: Matomo",
+    "text": "Example: Matomo"
+  },
+  {
+    "objectID": "materials/session2_wip.html#example-matomo-1",
+    "href": "materials/session2_wip.html#example-matomo-1",
+    "title": "Feedback and Scalability",
+    "section": "Example: Matomo",
+    "text": "Example: Matomo\n\n\nVisits\nUser journeys\nReferral sources\nDownloads\nReturning users\n\n\n\nWhy monitor?\n\nUnderstand user behaviour\nDetect problems early\nPrioritise future development"
+  },
+  {
+    "objectID": "materials/session2_wip.html#measuring-success",
+    "href": "materials/session2_wip.html#measuring-success",
+    "title": "Feedback and Scalability",
+    "section": "Measuring Success",
+    "text": "Measuring Success\n\nSuccess can mean different things\n\nMany users?\nHappy users?\nScientific impact?\nCommunity adoption?\nSustainability?\n\n\nDefine success before measuring\n\nWhat problem was the service created to solve?\n\nThe answer should guide your metrics"
+  },
+  {
+    "objectID": "materials/session2_wip.html#key-performance-indicators-kpis",
+    "href": "materials/session2_wip.html#key-performance-indicators-kpis",
+    "title": "Feedback and Scalability",
+    "section": "Key performance indicators (KPIs)",
+    "text": "Key performance indicators (KPIs)\n\nKPIs help track progress towards goals\n\n\n\n\nGoal\nPossible KPI\n\n\n\n\nIncrease adoption\nNumber of active users\n\n\nImprove usability\nUser satisfaction score\n\n\nIncrease visibility\nCitations and referrals\n\n\nImprove reliability\nUptime percentage\n\n\nBuild community\nWorkshop participants\n\n\n\n\n\n\nNot everything important is easy to measure.\nNot everything measurable is important."
+  },
+  {
+    "objectID": "materials/session2_wip.html#exercise-questions",
+    "href": "materials/session2_wip.html#exercise-questions",
+    "title": "Feedback and Scalability",
+    "section": "Exercise questions",
+    "text": "Exercise questions\n2-3 exercise questions per session\nImagine your service has existed for three years.\nHow would you convince a funder that it has been successful?\nConsider:\nWhat evidence would you collect? Which KPIs would you track? What stories would you tell?\nImagine a user encounters a problem with your service, either a bug in the system or they just want user guidance.\nHow should they contact you?\nDiscuss:\nWhich reporting channels would you offer? Which channel would you recommend as the primary route? How would you ensure reports are not lost?\nYou want to introduce a major new feature.\nHow would you test it before releasing it broadly?\nWould you use:\nPrototypes? Pilot users? Proof-of-concepts? A/B testing?\nWhat are the advantages and disadvantages of your chosen approach?\nQuestion 1\nSuppose your service becomes ten times more popular next year.\nWhat challenges might arise?\nThink about:\nInfrastructure Data storage User support Documentation Funding\nWhich challenge would concern you most?\nYou have been asked to demonstrate the impact of your service to a funder.\nWhat evidence would you collect?\nChoose:\n2–3 quantitative indicators (KPIs) 1–2 qualitative indicators (e.g. user stories)\nExplain why you selected them."
+  },
+  {
+    "objectID": "materials/session_template.html#triad-three-column-cards",
+    "href": "materials/session_template.html#triad-three-column-cards",
+    "title": "Placeholder Presentation Template",
+    "section": "Triad / Three-column cards",
+    "text": "Triad / Three-column cards\n\n\n\n ### Placeholder A Lorem ipsum dolor sit amet.\n\n\n\n ### Placeholder B Consectetur adipiscing elit.\n\n\n\n ### Placeholder C Sed do eiusmod tempor."
+  },
+  {
+    "objectID": "materials/session_template.html#two-column-comparison",
+    "href": "materials/session_template.html#two-column-comparison",
+    "title": "Placeholder Presentation Template",
+    "section": "Two-column comparison",
+    "text": "Two-column comparison\n\n\nOption A\n\n Placeholder\n Placeholder\n Placeholder\n\n\nOption B\n\n Placeholder\n Placeholder\n Placeholder"
+  },
+  {
+    "objectID": "materials/session_template.html#issues-vs-recommendations",
+    "href": "materials/session_template.html#issues-vs-recommendations",
+    "title": "Placeholder Presentation Template",
+    "section": "Issues vs recommendations",
+    "text": "Issues vs recommendations\n\n\n\n\n\n\nIssues\n\n\n\nLorem ipsum\n\n\nLorem ipsum\n\n\nLorem ipsum\n\n\n\n\n\n\n\n\n\n\nRecommendations\n\n\n\nPlaceholder\n\n\nPlaceholder\n\n\nPlaceholder"
+  },
+  {
+    "objectID": "materials/session_template.html#what-we-tune",
+    "href": "materials/session_template.html#what-we-tune",
+    "title": "Placeholder Presentation Template",
+    "section": "What we tune …",
+    "text": "What we tune …\n\n\n\nArea\nPlaceholder setting\nEffect\n\n\n\n\nCompute\nLorem ipsum\nPlaceholder\n\n\nStorage\nLorem ipsum\nPlaceholder\n\n\nScheduling\nLorem ipsum\nPlaceholder\n\n\nMonitoring\nLorem ipsum\nPlaceholder"
+  },
+  {
+    "objectID": "materials/session_template.html#colored-callouts",
+    "href": "materials/session_template.html#colored-callouts",
+    "title": "Placeholder Presentation Template",
+    "section": "Colored callouts",
+    "text": "Colored callouts\n\nBlue — Placeholder information.\n\n\nGreen — Placeholder recommendation.\n\n\nOrange — Placeholder caution.\n\n\nPurple — Placeholder note.\n\n\nRed — Placeholder risk."
+  },
+  {
+    "objectID": "materials/session_template.html#icon-rich-list",
+    "href": "materials/session_template.html#icon-rich-list",
+    "title": "Placeholder Presentation Template",
+    "section": "Icon-rich list",
+    "text": "Icon-rich list\n\n Data placeholder\n Infrastructure placeholder\n Python placeholder\n Bash placeholder\n Reporting placeholder\n\nMore icons: Browse Material Design Icons at https://pictogrammers.com/library/mdi/ and use the corresponding mdi mdi-... class names."
+  },
+  {
+    "objectID": "materials/session_template.html#bash-example",
+    "href": "materials/session_template.html#bash-example",
+    "title": "Placeholder Presentation Template",
+    "section": "Bash example",
+    "text": "Bash example\nfor sample in A B C; do\n  echo \"Processing ${sample}\"\ndone"
+  },
+  {
+    "objectID": "materials/session_template.html#python-example",
+    "href": "materials/session_template.html#python-example",
+    "title": "Placeholder Presentation Template",
+    "section": "Python example",
+    "text": "Python example\nfrom pathlib import Path\n\nsamples = [\"A\", \"B\", \"C\"]\nfor sample in samples:\n    print(f\"Processing {sample}\")"
+  },
+  {
+    "objectID": "materials/session_template.html#placeholder-content",
+    "href": "materials/session_template.html#placeholder-content",
+    "title": "Placeholder Presentation Template",
+    "section": "Placeholder content",
+    "text": "Placeholder content\nLorem ipsum dolor sit amet, consectetur adipiscing elit."
+  },
+  {
+    "objectID": "material.html",
+    "href": "material.html",
+    "title": "Material",
+    "section": "",
+    "text": "These pages are under active development and not yet ready for use as educational material.\nBelow you will find the material for the course.",
+    "crumbs": [
+      "Material"
+    ]
+  },
+  {
+    "objectID": "material.html#session-1",
+    "href": "material.html#session-1",
+    "title": "Material",
+    "section": "Session 1",
+    "text": "Session 1",
+    "crumbs": [
+      "Material"
+    ]
+  },
+  {
+    "objectID": "material.html#session-2",
+    "href": "material.html#session-2",
+    "title": "Material",
+    "section": "Session 2",
+    "text": "Session 2",
+    "crumbs": [
+      "Material"
+    ]
+  },
+  {
+    "objectID": "material.html#session-3",
+    "href": "material.html#session-3",
+    "title": "Material",
+    "section": "Session 3",
+    "text": "Session 3",
+    "crumbs": [
+      "Material"
+    ]
+  }
+]
