@@ -1,0 +1,421 @@
+---
+title: "Feedback and Scalability"
+title-slide-attributes:
+  data-background-image: EMBL_title.png
+  data-background-size: 100% 60%
+  data-background-position: top
+subtitle: "How to maintain and mesaure success of a data service"
+author: 
+    name: "Nina Norgren"
+    affiliations: 
+        - "Science for Life Laboratory, Sweden"
+        - "Training Hub"
+format:
+  revealjs: 
+    template-partials:
+      - title-slide.html
+    theme: [custom_template.scss, custom_titleslide.scss]
+    logo: EMBL_transparent.png
+    slide-number: true
+    footer: "Feedback | Nina Norgren"
+date: "2026.10.06"
+date-format: long
+---
+
+
+## Feedback and Scalability
+
+- Feedback, troubleshooting, user experience and user support
+  - Managing novelty
+    - Prototyping/Proof-of-Concept
+    - A-B testing
+  - Bug reporting
+    - Email
+    - Online form
+  - Community and communication channels
+    - Social platforms
+    - Instant messaging platforms?
+    - Publications?
+    - Conferences
+    - Courses
+  - GDPR
+    - Right for digital erasure
+    - Security incidents?
+- Service scale
+    - Scalability testing
+    - Monitoring
+      - Example: matomo
+    - What does success look like?
+      - Key Performance Indicators (KPIs) and related measures
+      - Links in other webpages (registries, cross-references, recommendations)
+      - User (success) stories
+
+
+## Learning outcomes (all modules)
+AI generated
+
+- Describe the lifecycle of a research infrastructure data service from concept to retirement.
+- Analyse organisational, technical, and funding requirements for sustainable service delivery.
+- Explain how governance, user support, monitoring, and maintenance contribute to long-term service sustainability.
+- Evaluate approaches for measuring service adoption, impact, and success within a research infrastructure context.
+- Discuss future developments in public data services, including AI-enabled interfaces and services.
+
+## Learning outcomes (my module)
+
+- Describe strategies for engaging with users and communities
+- Identify approaches for evaluating and improving a public data service
+
+## Why User Feedback Matters
+
+<br>
+
+> A service is only successful if users can use it
+
+<br>
+
+Public data services often focus heavily on:
+
+- Data quality
+- Infrastructure
+- Technology
+
+## Why User Feedback Matters
+
+<br>
+
+> A service is only successful if users can use it
+
+<br>
+
+But users experience:
+
+- Interfaces
+- Documentation
+- Support channels
+- Response times
+
+
+::: {.fragment}
+
+**User feedback is one of the most important inputs for improving a service.**
+
+:::
+
+--- 
+
+<br><br>
+
+1. **How do users tell you when something is wrong?**
+
+2. **How do you know whether your service is meeting their needs?**
+
+## A continuous improvement cycle
+
+<br>
+
+![](img/iterative-development.png){fig-align="center"}
+
+## A continuous improvement cycle
+
+<br>
+
+Feedback can come from:
+
+- Direct user support requests
+- Bug reports
+- User surveys
+- Community discussions
+- Usage analytics
+- Training events and workshops
+
+::: {.fragment}
+
+>Move from guessing what users need to learning from actual users.
+
+:::
+
+## Managing Novelty and New Features
+
+<br>
+
+Questions to ask before releasing a new feature
+
+<br>
+
+1. Does anyone actually need this?
+2. Is the problem clearly defined?
+3. Can we test the idea before fully implementing it?
+
+## Common approaches
+
+<br>
+
+#### Prototype
+
+- Early mock-up
+- Demonstrates concepts
+- Low development effort
+
+## Common approaches
+
+<br>
+
+#### Prototype
+#### Proof-of-Concept (PoC)
+
+- Tests technical feasibility
+- Answers "Can this work?"
+
+## Common approaches
+
+<br>
+
+#### Prototype
+#### Proof-of-Concept (PoC)
+#### Pilot users
+
+- Small group of real users
+- Early feedback before wider release
+
+## User Testing and A/B Testing
+
+<br>
+
+#### User testing
+
+- Observe users performing tasks
+- Identify pain points
+- Evaluate usability
+
+::: {.fragment}
+
+Examples:
+
+1. Finding a dataset
+2. Uploading data
+3. Running an analysis workflow
+
+:::
+
+## User Testing and A/B Testing
+
+<br>
+
+#### A/B Testing
+
+<br>
+
+**Version A:**
+
+Current design
+
+**Version B:**
+
+New design
+
+<br>
+
+Measure:
+
+- Completion rate
+- Time to task completion
+- User satisfaction
+
+
+## Handling Bug Reports
+
+<br>
+
+Make it easy to report bugs
+
+<br>
+
+>Bad:
+>"Send an email to support."
+
+<br>
+
+>Better:
+>Structured bug reporting form
+
+## Handling Bug Reports
+
+<br>
+
+>Better:
+>Structured bug reporting form
+
+<br>
+
+Useful information:
+
+- What happened?
+- What was expected?
+- Steps to reproduce
+- Browser/software version
+- Screenshots
+- Contact details
+
+## Handling Bug Reports
+
+<br>
+
+>Better:
+>Structured bug reporting form
+
+<br>
+
+Benefits:
+
+- Easier to recreate the issue
+- Faster troubleshooting
+- Better prioritisation
+- Easier communication
+
+## User interactions channels
+
+<br>
+
+Different users prefer different channels
+
+<br>
+
+| Channel  |  Strengths |  Weaknesses  |
+|----------|------------|--------------|
+| Email    | Familiar and universal | Hard to search |
+| Online forms | Structured information | Less conversational |
+| Github issues | Track issues | Technical barrier |
+| Community forums | Shared knowledge | Require moderation |
+
+
+## Which one to choose?
+
+<br>
+
+Depends on the user interaction:
+
+**Technical users -> GitHub Issues**  
+**General users -> support email or form**
+
+<br>
+
+Direct user support is normally through email or online form, but it can be useful to have a public forum for community discussions and shared knowledge.
+
+<br>
+
+::: {.fragment}
+
+> Accept feedback through multiple channels, but manage issues through a single tracking system
+
+:::
+
+# Can Your Service Scale?
+
+
+## Service Scale and Scalability
+
+<br>
+
+What happens if your service becomes successful?
+
+- Can the infrastructure handle more users?
+- Can it handle larger datasets?
+- Can it handle more simultaneous requests?
+- Can support staff keep up with demand?
+
+
+## Types of scalability
+
+<br>
+
+#### Technical
+
+- CPU, memory, storage
+- Network bandwidth
+- Database performance
+
+## Types of scalability
+
+<br>
+
+#### Technical
+#### Operational
+
+- Documentation
+- User support
+- Onboarding processes
+- Scalability testing
+
+## Types of scalability
+
+<br>
+
+#### Technical
+#### Operational
+
+<br>
+
+Examples:
+
+- Load testing
+- Stress testing
+- Performance benchmarking
+
+## Monitoring Your Service
+
+<br>
+
+What should be monitored?
+
+<br>
+
+#### Technical metrics
+
+- Uptime
+- Response times
+- Error rates
+- Storage usage
+
+## Monitoring Your Service
+
+<br>
+
+What should be monitored?
+
+<br>
+
+#### Technical metrics
+#### Usage metrics
+
+- Number of users
+- Number of sessions
+- Most used features
+- Geographic distribution
+
+## Example: Matomo
+
+<br>
+
+![](img/matomo-dashboard.png){fig-align="center" width="100%"}
+
+## Example: Matomo
+
+<br>
+
+- Visits
+- User journeys
+- Referral sources
+- Downloads
+- Returning users
+
+<br>
+
+::: {.fragment}
+
+#### Why monitor?
+
+- Understand user behaviour
+- Detect problems early
+- Prioritise future development
+
+:::

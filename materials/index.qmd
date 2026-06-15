@@ -1,0 +1,34 @@
+---
+title: "EMBL Template Presentation"
+title-slide-attributes:
+  data-background-image: EMBL_title.png
+  data-background-size: 100% 60%
+  data-background-position: top
+subtitle: "An attempt to create an EMBL template in Quarto"
+author: 
+    name: "Erick Martins Ratamero"
+    affiliations: 
+        - "European Molecular Biology Laboratory"
+        - "Data Science Centre"
+format:
+  revealjs: 
+    template-partials:
+      - title-slide.html
+    theme: custom_titleslide.scss
+    logo: EMBL_transparent.png
+    slide-number: true
+    footer: "Short title | Erick Ratamero"
+date: "2025.11.10"
+date-format: long
+---
+
+
+## Getting up
+
+- Turn off alarm
+- Get out of bed
+
+## Going to sleep
+
+- Get in bed
+- Count sheep

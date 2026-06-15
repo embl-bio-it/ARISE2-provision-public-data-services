@@ -1,0 +1,57 @@
+/*-- scss:defaults --*/
+
+// fonts
+$font-family-sans-serif: "Arial", "Helvetica", sans-serif !default;
+
+// colors
+$body-bg: #f0f1eb !default;
+$body-color: #000000 !default;
+$link-color: #3e3e3e !default;
+$selection-bg: #707372 !default;
+
+// headings
+$presentation-heading-font: "Arial", "Helvetica", sans-serif !default;
+$presentation-heading-color: #007b53 !default;
+
+// title slide
+$presentation-title-slide-text-align: left;
+#title-slide .title {
+  color: #ffffff;
+  font-size: 45pt;
+  position: relative;
+  top: 100px;
+}
+#title-slide .subtitle {
+  color: #ffffff;
+  font-size: 25pt;
+  position: relative;
+  top: 100px;
+  
+}
+#title-slide .quarto-title-author-name {
+color: #007b53;
+position: relative;
+top: 200px; 
+}
+
+#title-slide .quarto-title-affiliation{
+  position: relative;
+  top: 200px;
+}
+
+
+#title-slide .date {
+  font-size: 20px;
+  position: relative;
+  top: 200px; 
+}
+
+/*-- scss:rules --*/
+
+.reveal a {
+  line-height: 1.3em;
+}
+
+.reveal .slide-logo {
+   max-height: 3em !important;
+}
