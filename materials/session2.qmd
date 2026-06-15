@@ -3,7 +3,7 @@ page-title: "Session 1"
 
 format: 
     revealjs:
-        theme: [default, custom.scss]
+        theme: [default, custom_template.scss]
         title-slide: false
         footer: "ARISE2: Provision of Public Data Services"
 ---

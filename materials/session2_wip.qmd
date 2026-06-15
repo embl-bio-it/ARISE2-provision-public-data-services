@@ -23,44 +23,9 @@ date-format: long
 ---
 
 
-## Feedback and Scalability
+# Feedback and User interactions
 
-- Feedback, troubleshooting, user experience and user support
-  - Managing novelty
-    - Prototyping/Proof-of-Concept
-    - A-B testing
-  - Bug reporting
-    - Email
-    - Online form
-  - Community and communication channels
-    - Social platforms
-    - Instant messaging platforms?
-    - Publications?
-    - Conferences
-    - Courses
-  - GDPR
-    - Right for digital erasure
-    - Security incidents?
-- Service scale
-    - Scalability testing
-    - Monitoring
-      - Example: matomo
-    - What does success look like?
-      - Key Performance Indicators (KPIs) and related measures
-      - Links in other webpages (registries, cross-references, recommendations)
-      - User (success) stories
-
-
-## Learning outcomes (all modules)
-AI generated
-
-- Describe the lifecycle of a research infrastructure data service from concept to retirement.
-- Analyse organisational, technical, and funding requirements for sustainable service delivery.
-- Explain how governance, user support, monitoring, and maintenance contribute to long-term service sustainability.
-- Evaluate approaches for measuring service adoption, impact, and success within a research infrastructure context.
-- Discuss future developments in public data services, including AI-enabled interfaces and services.
-
-## Learning outcomes (my module)
+## Learning outcomes
 
 - Describe strategies for engaging with users and communities
 - Identify approaches for evaluating and improving a public data service
@@ -105,9 +70,11 @@ But users experience:
 
 <br><br>
 
-1. **How do users tell you when something is wrong?**
+1. ### How do users tell you when something is wrong?
 
-2. **How do you know whether your service is meeting their needs?**
+<br>
+
+2. ### How do you know whether your service is meeting their needs?
 
 ## A continuous improvement cycle
 
@@ -134,7 +101,7 @@ Feedback can come from:
 
 :::
 
-## Managing Novelty and New Features
+## Implementing new Features
 
 <br>
 
@@ -419,3 +386,124 @@ What should be monitored?
 - Prioritise future development
 
 :::
+
+## Measuring Success
+
+<br>
+
+Success can mean different things
+
+- Many users?
+- Happy users?
+- Scientific impact?
+- Community adoption?
+- Sustainability?
+
+::: {.fragment}
+
+Define success before measuring
+
+
+>What problem was the service created to solve?
+
+The answer should guide your metrics
+
+:::
+
+## Key performance indicators (KPIs)
+
+<br>
+
+KPIs help track progress towards goals
+
+<br>
+
+| Goal | Possible KPI  |
+|------|-------------- |
+| Increase adoption | Number of active users |
+| Improve usability | User satisfaction score |
+| Increase visibility | Citations and referrals |
+| Improve reliability | Uptime percentage |
+| Build community | Workshop participants |
+
+<br>
+
+::: {.fragment}
+
+>Not everything important is easy to measure.  
+>Not everything measurable is important.
+
+:::
+
+## Exercise questions
+
+2-3 exercise questions per session
+
+Imagine your service has existed for three years.
+
+How would you convince a funder that it has been successful?
+
+Consider:
+
+What evidence would you collect?
+Which KPIs would you track?
+What stories would you tell?
+
+
+
+Imagine a user encounters a problem with your service, either a bug in the system or they just want user guidance.
+
+How should they contact you?
+
+Discuss:
+
+Which reporting channels would you offer?
+Which channel would you recommend as the primary route?
+How would you ensure reports are not lost?
+
+
+
+
+You want to introduce a major new feature.
+
+How would you test it before releasing it broadly?
+
+Would you use:
+
+Prototypes?
+Pilot users?
+Proof-of-concepts?
+A/B testing?
+
+What are the advantages and disadvantages of your chosen approach?
+
+
+
+Question 1
+
+Suppose your service becomes ten times more popular next year.
+
+What challenges might arise?
+
+Think about:
+
+Infrastructure
+Data storage
+User support
+Documentation
+Funding
+
+Which challenge would concern you most?
+
+
+
+You have been asked to demonstrate the impact of your service to a funder.
+
+What evidence would you collect?
+
+Choose:
+
+2–3 quantitative indicators (KPIs)
+1–2 qualitative indicators (e.g. user stories)
+
+Explain why you selected them.

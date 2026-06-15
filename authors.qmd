@@ -18,13 +18,13 @@ date: today
     
 <br/>
 
-#### John Doe <a href="https://orcid.org/0000-0000-0000-0000" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> <a href="https://github.com/" rel="GitHub"><img src="img/Github.png" alt="" width="20" height="20"/></a>  
-###### Training Officer, EMBL  
+#### Nina Norgren <a href="https://orcid.org/0000-0002-3823-1555" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/nina-norgren-2a970868/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> <a href="https://github.com/ninanorgren/" rel="GitHub"><img src="img/Github.png" alt="" width="20" height="20"/></a>  
+###### Training Manager, SciLifeLab, Sweden  
 
 <table>
 <tr>
-    <td style="width: 20%;"><img src="img/john-doe.png" alt="Ineke Luijten" width="80"></td>
-    <td style="width: 80%;">Short bio of John Doe </td>
+    <td style="width: 20%;"><img src="img/nina-norgren.jpg" alt="Nina Norgren" width="80"></td>
+    <td style="width: 80%;">Nina is a Training Manager at SciLifeLab. She has a background in biology and bioinformatics, but is now mostly working with Training. She is managing several of the services offered by SciLifeLab training, including the SciLifeLab Training portal. </td>
 </tr>
 </table>
   
