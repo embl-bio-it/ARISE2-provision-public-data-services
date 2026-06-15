@@ -1,0 +1,189 @@
+[
+  {
+    "objectID": "authors.html",
+    "href": "authors.html",
+    "title": "Authors",
+    "section": "",
+    "text": "These pages are under active development and not yet ready for use as educational material.\n\nJohn Doe   \n\nTraining Officer, EMBL\n\n\n\n\n\n\nShort bio of John Doe\n\n\n\n\n\n\n\nJohn Doe   \n\nTraining Officer, EMBL\n\n\n\n\n\n\nShort bio of John Doe\n\n\n\n\n\n\n\nJohn Doe   \n\nTraining Officer, EMBL\n\n\n\n\n\n\nShort bio of John Doe\n\n\n\n\n\n\n\n\n\n\n    Contact: ??\n    Licensed under CC-BY-SA",
+    "crumbs": [
+      "Authors"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Information",
+    "section": "",
+    "text": "These pages are under active development and not yet ready for use as educational material.",
+    "crumbs": [
+      "Information"
+    ]
+  },
+  {
+    "objectID": "index.html#description-of-the-module",
+    "href": "index.html#description-of-the-module",
+    "title": "Information",
+    "section": "Description of the module",
+    "text": "Description of the module\nShort description of the module.",
+    "crumbs": [
+      "Information"
+    ]
+  },
+  {
+    "objectID": "index.html#prerequisites",
+    "href": "index.html#prerequisites",
+    "title": "Information",
+    "section": "Prerequisites",
+    "text": "Prerequisites\n?",
+    "crumbs": [
+      "Information"
+    ]
+  },
+  {
+    "objectID": "index.html#learning-outcomes",
+    "href": "index.html#learning-outcomes",
+    "title": "Information",
+    "section": "Learning outcomes",
+    "text": "Learning outcomes\nAfter this module the participants will be able to:\n\nLO 1\nLO 2",
+    "crumbs": [
+      "Information"
+    ]
+  },
+  {
+    "objectID": "index.html#arise-competencies-addressed-with-this-course",
+    "href": "index.html#arise-competencies-addressed-with-this-course",
+    "title": "Information",
+    "section": "ARISE competencies addressed with this course",
+    "text": "ARISE competencies addressed with this course",
+    "crumbs": [
+      "Information"
+    ]
+  },
+  {
+    "objectID": "index.html#schedule",
+    "href": "index.html#schedule",
+    "title": "Information",
+    "section": "Schedule",
+    "text": "Schedule\n\n\n\nTime (CEST)\nTopic\n\n\n\n\n14.00-14.20\nSession 1\n\n\n14.20-14.40\nSession 2\n\n\n14.40-15.00\nSession 3\n\n\n15.00-15.30\nExercise\n\n\n15.30-16.00\nQ&A",
+    "crumbs": [
+      "Information"
+    ]
+  },
+  {
+    "objectID": "materials/EMBL_opening_slide/index.html#getting-up",
+    "href": "materials/EMBL_opening_slide/index.html#getting-up",
+    "title": "EMBL Template Presentation",
+    "section": "Getting up",
+    "text": "Getting up\n\nTurn off alarm\nGet out of bed"
+  },
+  {
+    "objectID": "materials/EMBL_opening_slide/index.html#going-to-sleep",
+    "href": "materials/EMBL_opening_slide/index.html#going-to-sleep",
+    "title": "EMBL Template Presentation",
+    "section": "Going to sleep",
+    "text": "Going to sleep\n\nGet in bed\nCount sheep"
+  },
+  {
+    "objectID": "materials/session_template.html#triad-three-column-cards",
+    "href": "materials/session_template.html#triad-three-column-cards",
+    "title": "Placeholder Presentation Template",
+    "section": "Triad / Three-column cards",
+    "text": "Triad / Three-column cards\n\n\n\n ### Placeholder A Lorem ipsum dolor sit amet.\n\n\n\n ### Placeholder B Consectetur adipiscing elit.\n\n\n\n ### Placeholder C Sed do eiusmod tempor."
+  },
+  {
+    "objectID": "materials/session_template.html#two-column-comparison",
+    "href": "materials/session_template.html#two-column-comparison",
+    "title": "Placeholder Presentation Template",
+    "section": "Two-column comparison",
+    "text": "Two-column comparison\n\n\nOption A\n\n Placeholder\n Placeholder\n Placeholder\n\n\nOption B\n\n Placeholder\n Placeholder\n Placeholder"
+  },
+  {
+    "objectID": "materials/session_template.html#issues-vs-recommendations",
+    "href": "materials/session_template.html#issues-vs-recommendations",
+    "title": "Placeholder Presentation Template",
+    "section": "Issues vs recommendations",
+    "text": "Issues vs recommendations\n\n\n\n\n\n\nIssues\n\n\n\nLorem ipsum\n\n\nLorem ipsum\n\n\nLorem ipsum\n\n\n\n\n\n\n\n\n\n\nRecommendations\n\n\n\nPlaceholder\n\n\nPlaceholder\n\n\nPlaceholder"
+  },
+  {
+    "objectID": "materials/session_template.html#what-we-tune",
+    "href": "materials/session_template.html#what-we-tune",
+    "title": "Placeholder Presentation Template",
+    "section": "What we tune …",
+    "text": "What we tune …\n\n\n\nArea\nPlaceholder setting\nEffect\n\n\n\n\nCompute\nLorem ipsum\nPlaceholder\n\n\nStorage\nLorem ipsum\nPlaceholder\n\n\nScheduling\nLorem ipsum\nPlaceholder\n\n\nMonitoring\nLorem ipsum\nPlaceholder"
+  },
+  {
+    "objectID": "materials/session_template.html#colored-callouts",
+    "href": "materials/session_template.html#colored-callouts",
+    "title": "Placeholder Presentation Template",
+    "section": "Colored callouts",
+    "text": "Colored callouts\n\nBlue — Placeholder information.\n\n\nGreen — Placeholder recommendation.\n\n\nOrange — Placeholder caution.\n\n\nPurple — Placeholder note.\n\n\nRed — Placeholder risk."
+  },
+  {
+    "objectID": "materials/session_template.html#icon-rich-list",
+    "href": "materials/session_template.html#icon-rich-list",
+    "title": "Placeholder Presentation Template",
+    "section": "Icon-rich list",
+    "text": "Icon-rich list\n\n Data placeholder\n Infrastructure placeholder\n Python placeholder\n Bash placeholder\n Reporting placeholder\n\nMore icons: Browse Material Design Icons at https://pictogrammers.com/library/mdi/ and use the corresponding mdi mdi-... class names."
+  },
+  {
+    "objectID": "materials/session_template.html#bash-example",
+    "href": "materials/session_template.html#bash-example",
+    "title": "Placeholder Presentation Template",
+    "section": "Bash example",
+    "text": "Bash example\nfor sample in A B C; do\n  echo \"Processing ${sample}\"\ndone"
+  },
+  {
+    "objectID": "materials/session_template.html#python-example",
+    "href": "materials/session_template.html#python-example",
+    "title": "Placeholder Presentation Template",
+    "section": "Python example",
+    "text": "Python example\nfrom pathlib import Path\n\nsamples = [\"A\", \"B\", \"C\"]\nfor sample in samples:\n    print(f\"Processing {sample}\")"
+  },
+  {
+    "objectID": "materials/session_template.html#placeholder-content",
+    "href": "materials/session_template.html#placeholder-content",
+    "title": "Placeholder Presentation Template",
+    "section": "Placeholder content",
+    "text": "Placeholder content\nLorem ipsum dolor sit amet, consectetur adipiscing elit."
+  },
+  {
+    "objectID": "material.html",
+    "href": "material.html",
+    "title": "Material",
+    "section": "",
+    "text": "These pages are under active development and not yet ready for use as educational material.\nBelow you will find the material for the course.",
+    "crumbs": [
+      "Material"
+    ]
+  },
+  {
+    "objectID": "material.html#session-1",
+    "href": "material.html#session-1",
+    "title": "Material",
+    "section": "Session 1",
+    "text": "Session 1",
+    "crumbs": [
+      "Material"
+    ]
+  },
+  {
+    "objectID": "material.html#session-2",
+    "href": "material.html#session-2",
+    "title": "Material",
+    "section": "Session 2",
+    "text": "Session 2",
+    "crumbs": [
+      "Material"
+    ]
+  },
+  {
+    "objectID": "material.html#session-3",
+    "href": "material.html#session-3",
+    "title": "Material",
+    "section": "Session 3",
+    "text": "Session 3",
+    "crumbs": [
+      "Material"
+    ]
+  }
+]
