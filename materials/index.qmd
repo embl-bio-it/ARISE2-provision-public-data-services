@@ -1,7 +1,7 @@
 ---
 title: "EMBL Template Presentation"
 title-slide-attributes:
-  data-background-image: EMBL_title.png
+  data-background-image: img/EMBL_title.png
   data-background-size: 100% 60%
   data-background-position: top
 subtitle: "An attempt to create an EMBL template in Quarto"
