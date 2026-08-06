@@ -1,13 +1,25 @@
 ---
-page-title: "Example Session"
+title: "Maintenance and future perspectives"
+title-slide-attributes:
+  data-background-image: img/EMBL_title.png
+  data-background-size: 100% 60%
+  data-background-position: top
+subtitle: "A short intro to maintaining a data service"
+author: 
+    name: "Osvaldo Burastero"
+    affiliations: 
+        - "Former ARISE Fellow, EMBL Hamburg"
+        - "Garcia-Alai Team"
 format:
-  revealjs:
-    theme: [default, custom.scss, maintenance.scss]
-    title-slide: false
-    author: Osvaldo Burastero
-    footer: Provision of Public Data Services
+  revealjs: 
+    template-partials:
+      - title-slide.html
+    theme: [custom_template.scss, custom_titleslide.scss]
+    logo: img/EMBL_transparent.png
     slide-number: true
-    logo: logo.png
+    footer: "Feedback | Osvaldo Burastero"
+date: "2026.10.06"
+date-format: long
 ---
 
 # Maintenance and future perspectives
@@ -120,7 +132,7 @@ from the very beggining
 
 ---
 
-## From theory to practice
+## From theory to practice - the eSPC platform
 
 <div style="position:relative; width:92%; margin:auto;">
 
@@ -330,8 +342,10 @@ Data subjects have the right[^info-embl]
 
 [^info-embl]: <a href="https://www.embl.org/info/data-protection/" target="_blank">https://www.embl.org/info/data-protection/</a>
 
+<div style="display:flex; justify-content:center; align-items:center; height:50vh;">
+# Future perspectives 
+</div>
 
-# Future perspectives
 
 ---
 
@@ -373,7 +387,7 @@ We started building MCP servers that will let users analyse the data by chatting
 :::
 </div>
 
-
+<div style="margin-top:-80px;">
 
 # Thank you!
 
@@ -429,3 +443,4 @@ We started building MCP servers that will let users analyse the data by chatting
 - EMBL Garcia-Alai Team
 - EMBL Hamburg IT Team
 
+</div>
