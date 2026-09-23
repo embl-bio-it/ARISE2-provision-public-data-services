@@ -109,9 +109,9 @@ Questions to ask before releasing a new feature
 
 <br>
 
-1. Does anyone actually need this?
-2. Is the problem clearly defined?
-3. Can we test the idea before fully implementing it?
+1. Is the problem clearly defined?
+2. Can we test the idea before fully implementing it?
+3. Does anyone actually need this?
 
 ## Common approaches
 
@@ -120,8 +120,10 @@ Questions to ask before releasing a new feature
 #### Prototype
 
 - Early mock-up
-- Demonstrates concepts
+- Demonstrates concepts and user experience
 - Low development effort
+
+![](img/figma.png){fig-align="center"}
 
 ## Common approaches
 
@@ -172,21 +174,19 @@ Examples:
 
 <br>
 
-**Version A:**
+:::: {.columns}
+::: {.column width="60%"}
+![](img/AB-testing.png)
+:::
 
-Current design
-
-**Version B:**
-
-New design
-
-<br>
-
+::: {.column width="40%"}
 Measure:
 
 - Completion rate
 - Time to task completion
 - User satisfaction
+:::
+::::
 
 
 ## Handling Bug Reports
@@ -236,7 +236,6 @@ Benefits:
 
 - Easier to recreate the issue
 - Faster troubleshooting
-- Better prioritisation
 - Easier communication
 
 ## User interactions channels
@@ -406,7 +405,6 @@ Define success before measuring
 
 >What problem was the service created to solve?
 
-The answer should guide your metrics
 
 :::
 
@@ -434,3 +432,5 @@ KPIs help track progress towards goals
 >Not everything measurable is important.
 
 :::
+
+# Questions?
