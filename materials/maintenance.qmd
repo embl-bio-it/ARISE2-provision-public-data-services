@@ -1,0 +1,446 @@
+---
+title: "Maintenance and future perspectives"
+title-slide-attributes:
+  data-background-image: img/EMBL_title.png
+  data-background-size: 100% 60%
+  data-background-position: top
+subtitle: "A short intro to maintaining a data service"
+author: 
+    name: "Osvaldo Burastero"
+    affiliations: 
+        - "Former ARISE Fellow, EMBL Hamburg"
+        - "Garcia-Alai Team"
+format:
+  revealjs: 
+    template-partials:
+      - title-slide.html
+    theme: [custom_template.scss, custom_titleslide.scss]
+    logo: img/EMBL_transparent.png
+    slide-number: true
+    footer: "Feedback | Osvaldo Burastero"
+date: "2026.10.06"
+date-format: long
+---
+
+# Maintenance and future perspectives
+
+<h3>by <a href="https://www.linkedin.com/in/osvaldo-burastero/" target="_blank">Osvaldo Burastero</a></h3>
+
+October 2026
+
+---
+
+## Which lifeguard is better?
+
+Assuming the exact same conditions:
+
+**A)** Four rescues in one month or **B)** Zero rescues in one month
+
+::: {.columns}
+
+::: {.column width="30%"}
+![](img/maintenance/baywatch.jpeg)
+:::
+::: {.column width="70%"}
+
+::: {.fragment}
+### [(B)]{.blue-text}
+:::
+
+::: {.fragment}
+**The best lifeguard is the one who never needs to perform a rescue.**
+:::
+
+::: {.fragment}
+Because risks were prevented before they became incidents.
+:::
+
+:::
+
+:::
+
+---
+
+## Research software abandonment
+
+::: {.column width="49%"}
+<span style="font-size:0.6em;">
+<<
+We screened the availability of 2396 web tools published during the past 0 years.
+In a 133-day test frame, 31% of tools were always working, 
+48.4% occasionally and <b>20.6%</b> never.
+>>
+</span>
+![](img/maintenance/nar_kern_et_al.png)
+:::
+
+::: {.column width="1%"}
+::: 
+
+
+::: {.column width="49%"}
+::: {.fragment}
+<span style="font-size:0.6em;">
+<<
+Our empirical analysis of 24,490 omics software resources published 
+from 2000 to 2017 shows that <b>26%</b> of all omics software resources are not 
+currently accessible through URLs published in the original paper.
+>>
+</span>
+![](img/maintenance/genome_biology_mangul_et_al.png)
+:::
+:::
+
+---
+
+## The problem of maintenance
+
+::: {.fragment}
+1. Biology depends on software
+::: 
+::: {.fragment}
+2. Many of the tools are developed by trainees, PhD students and postdocs
+::: 
+::: {.fragment}
+3. Funding incentivates new applications, not maintenance
+::: 
+::: {.fragment}
+4. Circa one every four published tools become inaccesible
+:::
+::: {.fragment}
+5. Therefore, maintenance must be planned as part of service delivery
+from the very beggining
+:::
+---
+
+## The hidden reality of maintenance
+
+<div style="position:relative; width:80%; margin:auto;">
+
+<img src="img/maintenance/maintenance_iceberg_frame_1.svg"
+     style="width:100%;">
+
+<img class="fragment"
+     src="img/maintenance/maintenance_iceberg_frame_2.svg"
+     style="width:100%; position:absolute; top:0; left:0;">
+
+<img class="fragment"
+     src="img/maintenance/maintenance_iceberg_frame_3.svg"
+     style="width:100%; position:absolute; top:0; left:0;">
+
+</div>
+
+---
+
+## From theory to practice - the eSPC platform
+
+<div style="position:relative; width:92%; margin:auto;">
+
+<img src="img/maintenance/eSPC_scheme_1.svg"
+     style="width:100%;">
+
+<img class="fragment"
+     src="img/maintenance/eSPC_scheme_2.svg"
+     style="width:100%; position:absolute; top:0; left:0;">
+
+<img class="fragment"
+     src="img/maintenance/eSPC_scheme_3.svg"
+     style="width:100%; position:absolute; top:0; left:0;">
+
+</div>
+
+---
+
+## Documentation
+
+::: columns
+::: {.column width="50%"}
+Purpose:
+
+- For fellow developers
+- For external developers
+- For end users
+::: 
+
+
+::: {.column width="50%"}
+::: {.fragment}
+eSPC:
+
+- <a href="https://github.com/SPC-Facility-EMBL-Hamburg/eSPC_biophysics_platform" target="_blank">Github repo</a> and <a href="https://www.redmine.org" target="_blank">Redmine</a>
+- Github repo
+- User Guide (HTML) and User manual (.doc)[^user-docs] 
+:::
+:::
+:::
+[^user-docs]: Regularly updated based on user-feedback and new input files
+
+---
+
+## Testing
+
+Purpose[^caution]:
+
+- To discover and prevent possible bugs
+- To add code without breaking previous functionalities
+
+::: {.fragment}
+Types:
+
+::: columns
+::: {.column width="50%"}
+- Manual (performed by a person)
+:::
+::: {.column width="50%"}
+- Automated (performed by a machine)
+:::
+::: 
+:::
+[^caution]: Testing ≠ scientific correctness
+
+---
+
+## Testing
+
+Types of tests:
+
+- ::: {.fragment fragment-index=1}
+  Unit tests: for individual methods
+  :::
+
+- ::: {.fragment fragment-index=2}
+  Integration tests: modules working together
+  :::
+
+---
+
+## Testing
+
+Types of tests:
+
+- Unit tests: for individual methods
+
+- Integration tests: modules working together
+
+- End-to-end: Replicate user-behaviour
+
+- etc[^atlassian]...
+
+[^atlassian]:
+More info in <a href="https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing" target="_blank">www.atlassian.com</a>
+
+---
+
+## Testing
+
+eSPC examples:
+
+::: {.column width="50%"}
+Unit test
+![](img/maintenance/unit_test_example.png)
+:::
+
+::: {.column width="50%"}
+::: {.fragment}
+User-workflow
+![](img/maintenance/user_behaviour_test.png)
+:::
+:::
+
+---
+
+## Dependencies
+
+Challenges:
+
+- Changes in dependencies may break the current code.
+
+Solution:
+
+- Use computational environment with fixed versions.
+For instance, <a href="https://docs.astral.sh/uv/" target="_blank">uv</a> for python 
+and <a href="https://rstudio.github.io/renv/articles/renv.html" target="_blank">renv</a> for R.
+
+- Have tests so newer software versions can be easily validated.
+
+---
+
+## Dependencies 
+
+The licenses of the dependencies condition the license of your service
+
+Case in EMBL: Change of license terms from Anaconda
+
+
+<div style="text-align: center;">
+::: {.column width="65%"}
+![](img/maintenance/conda_case.png)
+:::
+</div>
+
+---
+
+## Security updates 
+
+Purpose:
+To patch software vulnerabilities and avoid unauthorized access to data or service disruptions
+
+Recommendations:
+
+::: {.column width="70%"}
+- Get an overview of the programs that are used and for those which do not update automatically, scout regularly for updates 
+- Do regular backups!
+:::
+
+---
+
+## Security requirements @EMBL
+
+- Service needs to have a technical owner responsible for updating the service
+- Asset data needs to be classified according to its sensitivity
+- Service should be isolated and connections encrypted
+- In case of a Security incident, the technical owner must contact the Computer Security Incident Response Team[^Note]
+
+[^Note]: More info in the EMBL intranet
+
+---
+
+## Security @eSPC
+
+<div style="text-align: center;">
+::: {.column width="85%"}
+![](img/maintenance/eSPC_scheme_4.svg)
+:::
+</div>
+
+---
+
+## User support - GDPR compliance
+
+If you process data you have to do so:[^info-gdpr]
+
+- Lawful, fair and transparent to the data subject
+- For legimitate purposes specified at the moment of data collection
+- Collect only necessary data
+- Keep personal data up to date
+- Ensure integrity and confidentiality of the data
+- Be accountable
+
+[^info-gdpr]: <a href="https://gdpr.eu/what-is-gdpr/" target="_blank">https://gdpr.eu/what-is-gdpr/</a>
+
+---
+
+## User support - GDPR @EMBL
+
+Data subjects have the right[^info-embl]
+
+- that no significant decisions are taken without human intervetion
+- request the processed data in a clear and understandable format
+- to know the reasons for processing and object it
+- request rectification or removal of data
+- withdrawn consent at any time
+
+[^info-embl]: <a href="https://www.embl.org/info/data-protection/" target="_blank">https://www.embl.org/info/data-protection/</a>
+
+<div style="display:flex; justify-content:center; align-items:center; height:50vh;">
+# Future perspectives 
+</div>
+
+
+---
+
+## Integrating AI in online data services
+
+For your project you should evaluate that
+
+- AI agents will interact with your service:
+     - Provide a well-documented API
+     - Use machine-readable data
+     - Include rich metadata
+     - Enable automation and bulk operations
+     - Enforce rate limits
+
+---
+
+## Integrating AI in online data services
+
+For your project you should evaluate if:
+
+- AI will be available inside the service for users to help them:
+     - Depositing the data
+     - Processing the data
+     - Visualizing the data
+     - Analysing the data
+     - Searching the data
+     - Fetching the data
+
+---
+
+## Integrating AI @eSPC
+
+We started building MCP servers that will let users analyse the data by chatting
+
+
+<div style="text-align: center;">
+::: {.column width="100%"}
+![](img/maintenance/MCP_eSPC.svg)
+:::
+</div>
+
+<div style="margin-top:-80px;">
+
+# Thank you!
+
+::: {.columns}
+
+::: {.column width="30%"}
+<div style="display:flex; align-items:center; justify-content:center; height:180px;">
+![](img/logos/mosbri_logo.png )
+</div>
+:::
+::: {.column width="11%"}
+:::
+::: {.column width="14%"}
+<div style="display:flex; align-items:center; justify-content:center; height:180px;">
+![](img/logos/marie_curie_logo.png )
+</div>
+:::
+::: {.column width="11%"}
+:::
+::: {.column width="30%"}
+<div style="display:flex; align-items:center; justify-content:center; height:180px;">
+![](img/logos/instruct_logo.png )
+</div>
+:::
+
+
+:::
+
+::: {.columns}
+
+::: {.column width="30%"}
+<div style="display:flex; align-items:center; justify-content:center; height:180px;">
+![](img/logos/arise_logo.png )
+</div>
+:::
+::: {.column width="3%"}
+:::
+::: {.column width="30%"}
+<div style="display:flex; align-items:center; justify-content:center; height:180px;">
+![](img/logos/EMBL_logo.png )
+</div>
+:::
+::: {.column width="3%"}
+:::
+::: {.column width="34%"}
+<div style="display:flex; align-items:center; justify-content:center; height:180px;">
+![](img/logos/EU_cofund_logo.png )
+</div>
+:::
+
+:::
+
+- EMBL Garcia-Alai Team
+- EMBL Hamburg IT Team
+
+</div>
