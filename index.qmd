@@ -16,23 +16,30 @@ date: today
 
 ## Description of the module
 
-Short description of the module. 
+Public data services are an important part of the infrastructure supporting modern research, ranging from databases and data resources to software tools and other publicly accessible digital services.
+
+This module introduces key considerations when planning, developing, providing, and maintaining public data services. Participants will explore the lifecycle of a service, from identifying user needs and assessing feasibility to choosing provision and release models, supporting users, monitoring service performance, and planning for long-term maintenance and sustainability.
+
+Using examples from existing research data services, the module will also discuss organisational responsibilities, resourcing, scalability, security, legal considerations, and emerging developments such as AI-based interfaces and machine-to-machine access to services.
 
 
 ## Prerequisites
 
-?
+No specific technical prerequisites are required.
+
+Participants should have a general understanding of research data, software, or digital research infrastructure. Experience with developing, maintaining, supporting, or using research data services is beneficial but not required.
+
+Participants are encouraged to bring an idea for an existing or potential public data service that they can use as a case throughout the module.
 
 
 ## Learning outcomes
 
 After this module the participants will be able to:
 
-- LO 1
-- LO 2
-
-
-## ARISE competencies addressed with this course
+* Identify and analyse user needs, organisational requirements, and available resources relevant to the provision of a public data service.
+* Plan appropriate approaches for user support, feedback, monitoring, scalability, and evaluation of a public data service.
+* Identify key considerations for the long-term maintenance and sustainability of a public data service, including dependencies, documentation, security, licensing, and data protection.
+* Evaluate how a public data service may need to evolve in response to changing user needs and technologies, and modes of access.
 
 
 ## Schedule
