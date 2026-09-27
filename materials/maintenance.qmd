@@ -169,7 +169,7 @@ eSPC:
 
 - <a href="https://github.com/SPC-Facility-EMBL-Hamburg/eSPC_biophysics_platform" target="_blank">Github repo</a> and <a href="https://www.redmine.org" target="_blank">Redmine</a>
 - Github repo
-- User Guide (HTML) and User manual (.doc)[^user-docs] 
+- User Guide and User manual[^user-docs] 
 :::
 :::
 :::
