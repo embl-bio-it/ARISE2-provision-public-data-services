@@ -66,7 +66,7 @@ Because risks were prevented before they became incidents.
 ::: {.column width="49%"}
 <span style="font-size:0.6em;">
 <<
-We screened the availability of 2396 web tools published during the past 0 years.
+We screened the availability of 2396 web tools published during the past 10 years.
 In a 133-day test frame, 31% of tools were always working, 
 48.4% occasionally and <b>20.6%</b> never.
 >>
