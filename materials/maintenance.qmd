@@ -289,8 +289,10 @@ Recommendations:
 
 ::: {.column width="70%"}
 - Monitor the programs that are used and for those which do not update automatically, scout regularly for updates 
-- Do regular backups!
+- Do regular backups![^backup]
 :::
+
+[^backup]: Also important to protect for data loss/damage
 
 ---
 
@@ -299,7 +301,8 @@ Recommendations:
 - Service needs to have a technical owner responsible for updating the service
 - Asset data needs to be classified according to its sensitivity
 - Service should be isolated and connections encrypted
-- In case of a Security incident, the technical owner must contact the Computer Security Incident Response Team[^Note]
+- In case of a Security incident, the technical owner must contact the Computer Security Incident Response Team and the 
+Data Protection Office[^Note]
 
 [^Note]: More info in the EMBL intranet
 
@@ -320,7 +323,7 @@ Recommendations:
 If you process data you have to do so:[^info-gdpr]
 
 - Lawful, fair and transparent to the data subject
-- For legimitate purposes specified at the moment of data collection
+- For legitimate purposes specified at the moment of data collection
 - Collect only necessary data
 - Keep personal data up to date
 - Ensure integrity and confidentiality of the data
@@ -330,7 +333,7 @@ If you process data you have to do so:[^info-gdpr]
 
 ---
 
-## User support - GDPR @EMBL
+## User support - Internal Policy No 68 @EMBL
 
 Data subjects have the right[^info-embl]
 
@@ -358,7 +361,7 @@ For your project you should evaluate that
      - Use machine-readable data
      - Include rich metadata
      - Enable automation and bulk operations
-     - Enforce rate limits
+     - Enforce rate limits and/or access control mechanisms
 
 ---
 
@@ -366,13 +369,13 @@ For your project you should evaluate that
 
 For your project you should evaluate if:
 
-- AI will be available inside the service for users to help them:
-     - Depositing the data
-     - Processing the data
-     - Visualizing the data
-     - Analysing the data
-     - Searching the data
-     - Fetching the data
+- LLMs will be available inside the service for users to help them:
+     - Depositing data
+     - Processing data
+     - Visualizing data
+     - Analysing data
+     - Searching data
+     - Fetching data
 
 ---
 
@@ -387,7 +390,16 @@ We started building MCP servers that will let users analyse the data by chatting
 :::
 </div>
 
+::: {.fragment}
+Caution notes:
+<ul>
+<li> Responses may not be deterministic (e.g., depend on the LLM model) </li>
+<li> There is risk of hallucination if the tool response is altered by the LLM </li>
+</ul>
+:::
+
 <div style="margin-top:-80px;">
+
 
 # Thank you!
 
