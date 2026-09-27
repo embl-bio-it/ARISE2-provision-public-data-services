@@ -96,7 +96,7 @@ currently accessible through URLs published in the original paper.
 ## The problem of maintenance
 
 ::: {.fragment}
-1. Biology depends on software
+1. Biology interpretation and data analysis depend on software
 ::: 
 ::: {.fragment}
 2. Many of the tools are developed by trainees, PhD students and postdocs
