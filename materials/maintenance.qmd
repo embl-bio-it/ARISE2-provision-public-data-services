@@ -288,7 +288,7 @@ To patch software vulnerabilities and avoid unauthorized access to data or servi
 Recommendations:
 
 ::: {.column width="70%"}
-- Get an overview of the programs that are used and for those which do not update automatically, scout regularly for updates 
+- Monitor the programs that are used and for those which do not update automatically, scout regularly for updates 
 - Do regular backups!
 :::
 
