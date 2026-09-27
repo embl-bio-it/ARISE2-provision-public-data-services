@@ -311,7 +311,7 @@ Data Protection Office[^Note]
 ## Security @eSPC
 
 <div style="text-align: center;">
-::: {.column width="85%"}
+::: {.column width="80%"}
 ![](img/maintenance/eSPC_scheme_4.svg)
 :::
 </div>
@@ -383,9 +383,8 @@ For your project you should evaluate if:
 
 We started building MCP servers that will let users analyse the data by chatting
 
-
 <div style="text-align: center;">
-::: {.column width="100%"}
+::: {.column width="75%"}
 ![](img/maintenance/MCP_eSPC.svg)
 :::
 </div>
