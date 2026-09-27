@@ -173,7 +173,7 @@ eSPC:
 :::
 :::
 :::
-[^user-docs]: Regularly updated based on user-feedback and new input files
+[^user-docs]: Regularly updated based on user feedback and new input file formats
 
 ---
 
