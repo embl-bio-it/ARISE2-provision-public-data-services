@@ -257,7 +257,7 @@ Challenges:
 
 Solution:
 
-- Use computational environment with fixed versions.
+- Use computational environment with fixed/pinned versions.
 For instance, <a href="https://docs.astral.sh/uv/" target="_blank">uv</a> for python 
 and <a href="https://rstudio.github.io/renv/articles/renv.html" target="_blank">renv</a> for R.
 
