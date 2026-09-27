@@ -182,7 +182,7 @@ eSPC:
 Purpose[^caution]:
 
 - To discover and prevent possible bugs
-- To add code without breaking previous functionalities
+- Safety net to allow adding code without breaking previous functionalities
 
 ::: {.fragment}
 Types:
