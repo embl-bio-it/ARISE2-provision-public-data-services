@@ -22,13 +22,6 @@ date: "2026.10.06"
 date-format: long
 ---
 
-# Maintenance and future perspectives
-
-<h3>by <a href="https://www.linkedin.com/in/osvaldo-burastero/" target="_blank">Osvaldo Burastero</a></h3>
-
-October 2026
-
----
 
 ## Which lifeguard is better?
 
