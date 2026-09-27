@@ -102,7 +102,7 @@ currently accessible through URLs published in the original paper.
 2. Many of the tools are developed by trainees, PhD students and postdocs
 ::: 
 ::: {.fragment}
-3. Funding incentivates new applications, not maintenance
+3. Funding encourages new applications, not maintenance
 ::: 
 ::: {.fragment}
 4. Circa one every four published tools become inaccesible
