@@ -31,10 +31,10 @@ Assuming the exact same conditions:
 
 ::: {.columns}
 
-::: {.column width="30%"}
-![](img/maintenance/baywatch.jpeg)
+::: {.column width="35%"}
+![](img/maintenance/lifeguard.jpg)
 :::
-::: {.column width="70%"}
+::: {.column width="65%"}
 
 ::: {.fragment}
 ### [(B)]{.blue-text}
