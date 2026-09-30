@@ -70,7 +70,7 @@ But users experience:
 
 <br><br>
 
-1. ### How do users tell you when something is wrong?
+1. ### How can users tell you when something is wrong?
 
 <br>
 
