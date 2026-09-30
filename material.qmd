@@ -16,3 +16,56 @@ Below you will find the material for the course.
 ## Session 3
 <iframe src="materials/session3.html" width="100%" height="300px" style="border: none;"></iframe>
 
+
+## Discussion questions
+
+
+::: {.callout-warning icon=false}
+
+## Question 1
+
+Imagine your service has existed for three years.
+
+**How would you convince a funder that it has been successful?**
+
+Consider:
+
+* What evidence would you collect?
+* Which KPIs would you track?
+* What stories would you tell?
+:::
+
+
+::: {.callout-warning icon=false}
+
+## Question 2
+
+Imagine a user encounters a problem with your service, either a bug in the system or they just want user guidance.
+
+**How should they contact you?**
+
+Discuss:
+
+* Which reporting channels would you offer?
+* Which channel would you recommend as the primary route?
+* How would you ensure reports are not lost?
+:::
+
+
+::: {.callout-warning icon=false}
+
+## Question 3
+
+You want to introduce a major new feature.
+
+**How would you test it before releasing it broadly?**
+
+Would you use:
+
+* Prototypes
+* Pilot users
+* Proof-of-concepts
+* A/B testing
+
+What are the advantages and disadvantages of your chosen approach?
+:::
