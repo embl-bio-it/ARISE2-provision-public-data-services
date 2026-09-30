@@ -30,7 +30,7 @@ date-format: long
 - Describe strategies for engaging with users and communities
 - Identify approaches for evaluating and improving a public data service
 
-## Why User Feedback Matters
+## The importance of feedback
 
 <br>
 
