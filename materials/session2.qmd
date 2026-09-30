@@ -220,7 +220,7 @@ Useful information:
 - What was expected?
 - Steps to reproduce
 - Browser/software version
-- Screenshots
+- Screenshots or screen recording
 - Contact details
 
 ## Handling Bug Reports
