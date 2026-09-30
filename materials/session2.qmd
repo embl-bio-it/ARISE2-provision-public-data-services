@@ -101,7 +101,7 @@ Feedback can come from:
 
 :::
 
-## Implementing new Features
+## Implementing new features
 
 <br>
 
