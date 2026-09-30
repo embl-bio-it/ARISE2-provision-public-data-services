@@ -44,7 +44,7 @@ Public data services often focus heavily on:
 - Infrastructure
 - Technology
 
-## Why User Feedback Matters
+## The importance of feedback
 
 <br>
 
