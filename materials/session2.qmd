@@ -4,7 +4,7 @@ title-slide-attributes:
   data-background-image: img/EMBL_title.png
   data-background-size: 100% 60%
   data-background-position: top
-subtitle: "How to maintain and mesaure success of a data service"
+subtitle: "How to maintain and measure success of a data service"
 author: 
     name: "Nina Norgren"
     affiliations: 
@@ -284,12 +284,21 @@ Direct user support is normally through email or online form, but it can be usef
 
 <br>
 
+:::: {.columns}
+::: {.column width="50%"}
 What happens if your service becomes successful?
 
 - Can the infrastructure handle more users?
 - Can it handle larger datasets?
 - Can it handle more simultaneous requests?
 - Can support staff keep up with demand?
+:::
+
+::: {.column width="50%"}
+![](img/not-scaled.png)
+:::
+::::
+ 
 
 
 ## Types of scalability
