@@ -97,7 +97,7 @@ Feedback can come from:
 
 ::: {.fragment}
 
->Move from guessing what users need to learning from actual users
+> Move from guessing what users need to learning from actual users
 
 :::
 
