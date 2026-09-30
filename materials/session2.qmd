@@ -228,8 +228,8 @@ Useful information:
 
 <br>
 
->Better:
->Structured bug reporting form
+> Better:
+> Structured bug reporting form
 
 <br>
 
