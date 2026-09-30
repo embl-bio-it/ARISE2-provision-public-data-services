@@ -430,8 +430,8 @@ KPIs help track progress towards goals
 
 ::: {.fragment}
 
->Not everything important is easy to measure.  
->Not everything measurable is important.
+> Not everything important is easy to measure.  
+> Not everything measurable is important.
 
 :::
 
