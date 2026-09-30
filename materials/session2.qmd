@@ -253,6 +253,7 @@ Different users prefer different channels
 | Online forms | Structured information | Less conversational |
 | Github issues | Track issues | Technical barrier |
 | Community forums | Shared knowledge | Require moderation |
+| Live chat | Fast interaction | Availability to respond in real-time |
 
 
 ## Which one to choose?
