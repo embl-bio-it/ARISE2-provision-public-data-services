@@ -219,6 +219,7 @@ Useful information:
 - What happened?
 - What was expected?
 - Steps to reproduce
+- What have you tried so far to solve the issue?
 - Browser/software version
 - Screenshots or screen recording
 - Contact details
