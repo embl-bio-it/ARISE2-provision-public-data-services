@@ -70,7 +70,11 @@ But users experience:
 
 <br><br>
 
-1. ### How can users tell you when something is wrong?
+1. ### How can users tellScalability testing
+Examples:
+- Load testing
+- Stress testing
+- Performance benchmarking you when something is wrong?
 
 <br>
 
@@ -323,20 +327,21 @@ What happens if your service becomes successful?
 - Onboarding processes
 - Scalability testing
 
-## Types of scalability
-
-<br>
-
-#### Technical
-#### Operational
+## Scalability testing
 
 <br>
 
 Examples:
 
-- Load testing
-- Stress testing
-- Performance benchmarking
+::: {.incremental}
+
+- Load testing (can you service handle the expected load)
+- Stress testing (where is the breaking point?)
+
+
+:::
+
+
 
 ## Monitoring Your Service
 
@@ -365,7 +370,7 @@ What should be monitored?
 #### Usage metrics
 
 - Number of users
-- Number of sessions
+- User journeys
 - Most used features
 - Geographic distribution
 
@@ -373,29 +378,32 @@ What should be monitored?
 
 <br>
 
+:::: {.columns}
+::: {.column width="50%"}
 ![](img/matomo-dashboard.png){fig-align="center" width="100%"}
+:::
 
-## Example: Matomo
-
-<br>
+::: {.column width="50%"}
 
 - Visits
 - User journeys
 - Referral sources
 - Downloads
 - Returning users
+:::
+::::
+
+
+
+## Why monitor?
 
 <br>
-
-::: {.fragment}
-
-#### Why monitor?
 
 - Understand user behaviour
 - Detect problems early
 - Prioritise future development
 
-:::
+
 
 ## Measuring Success
 
