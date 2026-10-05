@@ -39,7 +39,7 @@ date: today
     <td style="width: 20%;"><img src="img/osvaldo-burastero.png" alt="Osvaldo Burastero" width="80"></td>
     <td style="width: 80%;">Osvaldo is a former ARISE Fellow at EMBL. He has a background in biology and data science. 
     During his time at EMBL, he developed an online, open-source, user-friendly platform for the
-    analysis of biophysical data: <a href="https://www.spc.embl-hamburg.de/" target="_blank" rel="noopener noreferrer">the eSPC platform</a> </td>
+    analysis of biophysical data: <a href="https://spc.embl-hamburg.de" target="_blank" rel="noopener noreferrer">the eSPC platform</a> </td>
 </tr>
 </table>
   
