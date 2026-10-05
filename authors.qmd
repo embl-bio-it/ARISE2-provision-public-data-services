@@ -31,13 +31,15 @@ date: today
     
 <br/>
 
-#### John Doe <a href="https://orcid.org/0000-0000-0000-0000" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> <a href="https://github.com/" rel="GitHub"><img src="img/Github.png" alt="" width="20" height="20"/></a>  
-###### Training Officer, EMBL  
+#### Osvaldo Burastero <a href="https://orcid.org/0000-0003-4089-0434" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a> <a href="https://www.linkedin.com/in/osvaldo-burastero/" rel="LinkedIn"><img src="img/Linkedin.png" alt="" width="20" height="20"/></a> <a href="https://github.com/osvalB" rel="GitHub"><img src="img/Github.png" alt="" width="20" height="20"/></a>  
+###### Scientific software developer, Buenos Aires, Argentina  
 
 <table>
 <tr>
-    <td style="width: 20%;"><img src="img/john-doe.png" alt="Ineke Luijten" width="80"></td>
-    <td style="width: 80%;">Short bio of John Doe </td>
+    <td style="width: 20%;"><img src="img/osvaldo-burastero.png" alt="Osvaldo Burastero" width="80"></td>
+    <td style="width: 80%;">Osvaldo is a former ARISE Fellow from EMBL. He has a background in biology and data science. 
+    During his time at EMBL, he developed an online, open-source, user-friendly platform for the
+    analysis of biophysical data: <a href="https://www.spc.embl-hamburg.de/" target="_blank" rel="noopener noreferrer">eSPC platform</a> </td>
 </tr>
 </table>
   
