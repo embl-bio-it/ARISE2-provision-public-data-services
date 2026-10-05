@@ -69,3 +69,27 @@ Would you use:
 
 What are the advantages and disadvantages of your chosen approach?
 :::
+
+::: {.callout-warning icon=false}
+
+## Question 4
+
+You ask your favourite AI assistant to edit a Python script of your data service to make it faster.
+
+**How would you assure it still performs as expected?**
+
+What are the advantages and disadvantages of your chosen approach?
+:::
+
+::: {.callout-warning icon=false}
+
+## Question 5
+
+Have you tried to use a published software data service and it did not work? 
+
+Discuss:
+
+* What was the reason?
+* What was the maintenance issue?
+* How could it have been avoided?
+:::
