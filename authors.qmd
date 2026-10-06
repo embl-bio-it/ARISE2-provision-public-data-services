@@ -11,7 +11,7 @@ date: today
 <table>
 <tr>
     <td style="width: 20%;"><img src="img/renato-alves.png" alt="Renato Alves" width="80"></td>
-    <td style="width: 80%;">Renato Alves is a Senior Bioinformatics Community Manager. In his role, he supports the Bio-IT community in the four pillars of the Bio-IT project: Training and Consulting, Infrastructure, Community and Networking, and Information dissemination.</td>
+    <td style="width: 80%;">Renato Alves is a Senior Bioinformatics Community Manager. In his role, he supports the Data Science Centre and Bio-IT community in the four pillars: Infrastructure, Training and Consulting, Community and Networking, and Information dissemination.</td>
 </tr>
 </table>
   
