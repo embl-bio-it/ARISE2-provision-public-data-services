@@ -4,7 +4,7 @@ title-slide-attributes:
   data-background-image: img/EMBL_title.png
   data-background-size: 100% 60%
   data-background-position: top
-subtitle: "How to maintain and mesaure success of a data service"
+subtitle: "How to maintain and measure success of a data service"
 author: 
     name: "Nina Norgren"
     affiliations: 
@@ -17,7 +17,7 @@ format:
     theme: [custom_template.scss, custom_titleslide.scss]
     logo: img/EMBL_transparent.png
     slide-number: true
-    footer: "Feedback | Nina Norgren"
+    footer: "Feedback & Scalability | Nina Norgren"
 date: "2026.10.06"
 date-format: long
 ---

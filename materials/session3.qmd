@@ -17,7 +17,7 @@ format:
     theme: [custom_template.scss, custom_titleslide.scss]
     logo: img/EMBL_transparent.png
     slide-number: true
-    footer: "Feedback | Osvaldo Burastero"
+    footer: "Maintenance & Future | Osvaldo Burastero"
 date: "2026.10.06"
 date-format: long
 ---
