@@ -6,9 +6,7 @@ date: today
 Below you will find the material for the course.
 
 ## Session 1
-
 <iframe src="materials/session1.html" width="100%" height="300px" style="border: none;"></iframe>
-
 
 ## Session 2
 <iframe src="materials/session2.html" width="100%" height="300px" style="border: none;"></iframe>
@@ -19,10 +17,39 @@ Below you will find the material for the course.
 
 ## Discussion questions
 
-
 ::: {.callout-warning icon=false}
 
 ## Question 1
+
+You have a fantastic new idea for novel web platform but it's hard to describe in words.
+
+**What mechanisms could you use to convey what the platform is meant to do?**
+
+Consider:
+
+* What is your use-case and how would you communicate it?
+* What is the minimum information deemed necessary to show its potential use?
+* *An image is worth 1000 words*
+:::
+
+::: {.callout-warning icon=false}
+
+## Question 2
+
+Your time with your present organisation is coming to an end.
+
+**Would you like your services to outlive your stay? What strategies can you use to ensure the service remains available?**
+
+Consider:
+
+* Financial or human resource needs.
+* Brand and relocating the service.
+* Changing needs and service sunsetting.
+:::
+
+::: {.callout-warning icon=false}
+
+## Question 3
 
 Imagine your service has existed for three years.
 
@@ -35,10 +62,25 @@ Consider:
 * What stories would you tell?
 :::
 
+::: {.callout-warning icon=false}
+
+## Question 4
+
+The ecosystem where your service is provided changed impacting it (positively or negatively).
+
+**How would you assess this impact and what measures could you implement to adapt?**
+
+Consider:
+
+* Resourcing necessary.
+* Synergies with other existing services.
+* Building on brand, reputation or merit for continuation and sustainability.
+:::
+
 
 ::: {.callout-warning icon=false}
 
-## Question 2
+## Question 5
 
 Imagine a user encounters a problem with your service, either a bug in the system or they just want user guidance.
 
@@ -54,7 +96,7 @@ Discuss:
 
 ::: {.callout-warning icon=false}
 
-## Question 3
+## Question 6
 
 You want to introduce a major new feature.
 
@@ -72,18 +114,18 @@ What are the advantages and disadvantages of your chosen approach?
 
 ::: {.callout-warning icon=false}
 
-## Question 4
+## Question 7
 
 You ask your favourite AI assistant to edit a Python script of your data service to make it faster.
 
 **How would you assure it still performs as expected?**
 
-What are the advantages and disadvantages of your chosen approach?
+* What are the advantages and disadvantages of your chosen approach?
 :::
 
 ::: {.callout-warning icon=false}
 
-## Question 5
+## Question 8
 
 Have you tried to use a published software data service and it did not work? 
 
