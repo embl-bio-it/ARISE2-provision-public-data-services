@@ -24,7 +24,6 @@ website:
     logo: "img/EMBL_logo_white_DIGITAL.svg"
   favicon: "img/EMBL_logo_white_DIGITAL.svg"
   body-footer: footer.html
-  body-header: banner.html
 
 
 format:
