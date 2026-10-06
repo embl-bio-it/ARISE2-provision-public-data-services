@@ -284,12 +284,21 @@ Direct user support is normally through email or online form, but it can be usef
 
 <br>
 
+:::: {.columns}
+::: {.column width="50%"}
 What happens if your service becomes successful?
 
 - Can the infrastructure handle more users?
 - Can it handle larger datasets?
 - Can it handle more simultaneous requests?
 - Can support staff keep up with demand?
+:::
+
+::: {.column width="50%"}
+![](img/not-scaled.png)
+:::
+::::
+ 
 
 
 ## Types of scalability
@@ -312,22 +321,22 @@ What happens if your service becomes successful?
 - Documentation
 - User support
 - Onboarding processes
-- Scalability testing
 
-## Types of scalability
-
-<br>
-
-#### Technical
-#### Operational
+## Scalability testing
 
 <br>
 
 Examples:
 
-- Load testing
-- Stress testing
-- Performance benchmarking
+::: {.incremental}
+
+- Load testing (can you service handle the expected load)
+- Stress testing (where is the breaking point?)
+
+
+:::
+
+
 
 ## Monitoring Your Service
 
@@ -356,7 +365,7 @@ What should be monitored?
 #### Usage metrics
 
 - Number of users
-- Number of sessions
+- User journeys
 - Most used features
 - Geographic distribution
 
@@ -364,29 +373,32 @@ What should be monitored?
 
 <br>
 
+:::: {.columns}
+::: {.column width="50%"}
 ![](img/matomo-dashboard.png){fig-align="center" width="100%"}
+:::
 
-## Example: Matomo
-
-<br>
+::: {.column width="50%"}
 
 - Visits
 - User journeys
 - Referral sources
 - Downloads
 - Returning users
+:::
+::::
+
+
+
+## Why monitor?
 
 <br>
-
-::: {.fragment}
-
-#### Why monitor?
 
 - Understand user behaviour
 - Detect problems early
 - Prioritise future development
 
-:::
+
 
 ## Measuring Success
 
